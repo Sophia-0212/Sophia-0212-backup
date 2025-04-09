@@ -60,5 +60,5 @@
 ---
 
 <div align="center">
-    <img src="https://github.com/Sophia-0212/Sophia-0212/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+    <img src="https://raw.githubusercontent.com/Sophia-0212/Sophia-0212/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
